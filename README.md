@@ -1,5 +1,6 @@
 # Movies-App
 A simple movie application where you can search a movie and go through with its overview and rating through JavaScript.
+You can also check here: https://movies-app-khusamayasir.netlify.app
 
 #
 Desktop-View:
@@ -13,4 +14,5 @@ Mobile-View:
 
 #
 Ipad-Mini-View:
+
 ![image](https://user-images.githubusercontent.com/66178232/158711290-156c4253-471b-4c04-81b2-bfaf58cb6823.png)
