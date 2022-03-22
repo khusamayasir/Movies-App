@@ -1,5 +1,6 @@
 # Movies-App
-A simple movie application where you can search a movie and go through with its overview and rating through JavaScript.
+A simple movie application through JavaScript where you can search a movie and go through with its review and rating
+
 You can also check here: https://movies-app-khusamayasir.netlify.app
 
 #
